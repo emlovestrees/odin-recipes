@@ -9,3 +9,7 @@ h1 {
 .stroganoff {
     font-size: 22px;
 }
+
+* {
+    background-color: azure;
+}
