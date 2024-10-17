@@ -4,16 +4,35 @@ li {
 
 h1 {
     font-family: 'Lucida Handwriting',cursive;
-}
-
-.stroganoff {
-    font-size: 22px;
+    padding: 8px;
+    background-color: rgb(99, 170, 231);
+    width: auto;
+    color: white;
 }
 
 * {
-    background-color: azure;
+    background-color: rgb(158, 191, 240);
+    box-sizing: border-box;
+    margin: 5px;
 }
 
-#odin {
-    color: #8a2be2;
+img {
+    width: 200px;
+    height: 100%;
+}
+
+ul {
+    border: 1px solid rgb(168, 190, 209);
+}
+
+h2 {
+    margin: 8px;
+    background-color: rgb(99, 169, 230);
+    width: auto;
+    color: white;
+    padding-left: 5px;
+}
+
+ol li {
+    margin: 15px auto;
 }
